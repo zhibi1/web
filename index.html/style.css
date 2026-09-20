@@ -1,0 +1,29 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    width: 800px;
+    margin: 20px auto;
+    font-size:16px;
+}
+header{
+    text-align:center;
+    border-bottom:1px solid #999;
+    padding-bottom:10px;
+}
+main{
+    padding:20px 0;
+}
+table{
+    margin:15px 0;
+    border-collapse: collapse;
+}
+p{
+    margin:12px 0;
+}
+footer{
+    text-align:center;
+    margin-top:30px;
+    padding-top:10px;
+    border-top:1px solid #999;
+}
